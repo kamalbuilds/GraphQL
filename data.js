@@ -1,12 +1,18 @@
-const books = [
-    {
-      title: 'The Awakening',
-      author: 'Kate Chopin',
-    },
-    {
-      title: 'City of Glass',
-      author: 'Paul Auster',
-    },
-  ];
-  
-module.exports= {books};
+const UserList = [
+  {
+    id : 1,
+    name : " John ",
+    username : " john ",
+    age : 20,
+    nationality : "Canada",
+  },
+  {
+    id : 2 ,
+    name : " Pedro ",
+    username : "PedroTech ",
+    age : 20 ,
+    nationality : "Brazil ",
+  },
+];
+
+module.exports= {UserList};
